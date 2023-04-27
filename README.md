@@ -13,4 +13,3 @@ https://www.buzzsprout.com/123456/7891011
 ```
 
 Made with ❤️ by [Human Made](https://humanmade.com)
-```
