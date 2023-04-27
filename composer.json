@@ -1,0 +1,7 @@
+{
+    "name": "humanmade/buzzsprout-embed",
+    "description": "Buzzsprout Podcast Embed support for WordPress",
+    "type": "wordpress-plugin",
+    "license": "GPL-2.0-or-later",
+    "require": {}
+}
